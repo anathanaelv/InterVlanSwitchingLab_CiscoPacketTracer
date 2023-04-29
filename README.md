@@ -1,4 +1,4 @@
-# <h1>InterVlanSwitchingLAB_CiscoPacketTracer</h1>
+# <h1>InterVlanSwitchingLab_CiscoPacketTracer</h1>
 
  ### [YouTube Demonstration]()
 
